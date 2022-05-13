@@ -1,0 +1,6 @@
+#key variables
+env.py
+
+#environments
+venv/
+__pycache__/
